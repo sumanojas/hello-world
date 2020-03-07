@@ -1,9 +1,21 @@
-<h1> hi </h1>
-<h1> Hello, Welcome to Valaxy !! </h1>
-<h2> AWS & DevOps training </h2>
-<h2> How are you </h2>
-<h2> welcome to ojas </h2>
-<h1> ojas innovative </h1>
-suman suman
-hihihkihih
-OJAS INNOVATIVE
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Our Company</title>
+</head>
+
+<body>
+
+  <h1>Welcome to Our Company</h1> 
+  <h2>Web Site Main Ingredients:</h2>
+
+  <p>Pages (HTML)</p>
+  <p>Style Sheets (CSS)</p>
+  <p>Computer Code (JavaScript)</p>
+  <p>Live Data (Files and Databases)</p>
+
+</body>
+
+</html> 
+
